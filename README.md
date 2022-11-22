@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **inside-silico/inside-silico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Silico ToDo List
+
+## Frontend
+- [ ] Seleccion del lenguaje
+- [ ] Diseño principal
+- [ ] Implementacion en Docker
+- [ ] Autoactualizacion
+- [ ] Graficos de historicos
+
+## Backend
+- [ ] Crear motor de base de datos
+- [ ] Crear inyector de datos en tiempo real
+- [ ] API de analisis
+- [ ] Listar endpoints de API
+- [x] Inyector de datos de GSheets
+- [ ] Scripts de actualizacion de datos historicos de GSheets
+- [ ] API para datos historicos
+
+### Opciones
+- [ ] Base de datos cierres diarios
+- [ ] Base de datos volatilidad implicita
+- [ ] Base de datos volatilidad historica
+
+### Bonds-Comparative
+- [x] Imagen de Docker
+- [ ] Entrypoint para datos de ejemplo
+
