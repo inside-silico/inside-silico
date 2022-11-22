@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - [ ] Implementacion en Docker
 - [ ] Autoactualizacion
 - [ ] Graficos de historicos
+- [ ] LinkTree
 
 ## Backend
 - [ ] Crear motor de base de datos
