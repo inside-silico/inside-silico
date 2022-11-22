@@ -39,3 +39,12 @@ Here are some ideas to get you started:
 - [x] Imagen de Docker
 - [ ] Entrypoint para datos de ejemplo
 
+### Dirty/Clean (calculo cotizaciones clean, TIR y par historico de bonos)
+- [ ] Obtención de datos historicos
+- [ ] Ajuste por tipo de cambio
+- [ ] Calculo de TIR
+- [ ] Calculo de Paridad
+
+
+
+
