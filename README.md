@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Silico 
 
-Silico es un conjunto de herramientas Open Source diseñadas para ayudar en la operatoria en el mercado de capitales argentino. Cualquiera puede colaborar con el proyecto si asi lo desea o simplemente utilizarl as herrramientas. 
+Silico es un conjunto de herramientas Open Source diseñadas para ayudar en la operatoria en el mercado de capitales argentino. Cualquiera puede colaborar con el proyecto si así lo desea o simplemente utilizar as herramientas.
 
 # ToDo List
 
