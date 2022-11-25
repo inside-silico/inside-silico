@@ -24,7 +24,7 @@ Silico es un conjunto de herramientas Open Source diseñadas para ayudar en la o
 - [ ] Implementacion en Docker
 - [ ] Autoactualizacion
 - [ ] Graficos de historicos
-- [ ] LinkTree
+- [X] LinkTree
 
 ## Backend
 - [ ] Crear motor de base de datos
