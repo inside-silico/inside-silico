@@ -19,20 +19,19 @@ Silico es un conjunto de herramientas Open Source diseñadas para ayudar en la o
 # ToDo List
 
 ## Frontend
-- [ ] Seleccion del lenguaje
-- [ ] Diseño principal
+- [x] Diseño principal
 - [ ] Implementacion en Docker
-- [ ] Autoactualizacion
+- [ ] Corregir DropDown de menu
+- [x] Autoactualizacion
 - [ ] Graficos de historicos
 - [X] LinkTree
 
 ## Backend
 - [ ] Crear motor de base de datos
 - [ ] Crear inyector de datos en tiempo real
-- [ ] API de analisis
-- [ ] Listar endpoints de API
+- [x] Listar endpoints de API
 - [x] Inyector de datos de GSheets
-- [ ] Scripts de actualizacion de datos historicos de GSheets
+- [x] Scripts de actualizacion de datos historicos de GSheets
 - [ ] API para datos historicos
 
 ### Opciones
