@@ -20,7 +20,7 @@ Silico es un conjunto de herramientas Open Source diseñadas para ayudar en la o
 
 ## Frontend
 - [x] Diseño principal
-- [ ] Implementacion en Docker
+- [x] Implementacion en Docker
 - [ ] Corregir DropDown de menu
 - [x] Autoactualizacion
 - [ ] Graficos de historicos
