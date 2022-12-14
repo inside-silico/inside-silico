@@ -24,12 +24,13 @@ Silico es un conjunto de herramientas Open Source diseñadas para ayudar en la o
 - [ ] Corregir DropDown de menu
 - [x] Autoactualizacion
 - [ ] Graficos de historicos
+- [ ] Requests Privados
 - [X] LinkTree
 
 ## Backend
 - [ ] Crear motor de base de datos
 - [ ] Crear inyector de datos en tiempo real
-- [x] Listar endpoints de API
+- [ ] Listar endpoints de API
 - [x] Inyector de datos de GSheets
 - [x] Scripts de actualizacion de datos historicos de GSheets
 - [ ] API para datos historicos
