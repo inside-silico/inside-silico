@@ -29,16 +29,21 @@ Silico es un conjunto de herramientas Open Source diseñadas para ayudar en la o
 
 ## Backend
 - [ ] Crear motor de base de datos
-- [ ] Crear inyector de datos en tiempo real
+- [x] Crear inyector de datos en tiempo real
 - [ ] Listar endpoints de API
 - [x] Inyector de datos de GSheets
 - [x] Scripts de actualizacion de datos historicos de GSheets
 - [ ] API para datos historicos
+- [ ] Datos de CAFCI
+- [ ] Información de las empresas
 
 ### Opciones
 - [ ] Base de datos cierres diarios
 - [ ] Base de datos volatilidad implicita
 - [ ] Base de datos volatilidad historica
+- [ ] BullSpread/BearSpread
+- [ ] Calculo de sinteticos
+- [ ] Lanzaiento de Puts
 
 ### Bonds-Comparative
 - [x] Imagen de Docker
